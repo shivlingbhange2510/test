@@ -1,6 +1,6 @@
 // Auto Typed Name
 let typed = new Typed(".auto-typed", {
-    strings: ["Shivling,"],
+    strings: ["Shivling Bhange,"],
     typeSpeed: 220,
     backSpeed: 220,
     loop: true,
